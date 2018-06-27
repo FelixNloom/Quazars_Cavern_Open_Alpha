@@ -1,0 +1,4 @@
+-Cleaned up junk audio files
+-added some sound effects and music by Johhny D.
+-added an intro screen with a game explanation
+-various other tweaks i don't feel like writing out
