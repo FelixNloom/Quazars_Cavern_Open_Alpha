@@ -1,3 +1,17 @@
+2 Jul 2018
+-changed some things around on the map for aesthetic purposes mostly
+-Removed the safe squared around the edge of each map
+-lowered player hp
+-removed unnecessary files
+-added Enemy attack to the list of common events
+-monsters now attack if you try to run and it fails.
+-monster portraits now erase after monster dies
+-fixed a bug where grenades don't do anything
+-included text boxes telling the player how much healing damage was done by items
+-fixed a bug where the tick monster image wouldn't show
+-i added a function that plays the "item get" sound effect
+
+June 2018
 -Cleaned up junk audio files
 -added some sound effects and music by Johhny D.
 -added an intro screen with a game explanation
