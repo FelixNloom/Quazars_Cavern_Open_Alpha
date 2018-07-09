@@ -1,3 +1,17 @@
+8 July 2018
+-I added a new character avatar. I call it a "token".
+-made text boxes for room descriptions
+-made an img to represent mon monster
+-changed all of the maps
+-added "Easy to view" stats
+-attempted to make dungeon crawling a bit simpler
+
+7 July 2018
+-Added a HUD so you can monitor your health and other stats
+-resized the monster portraits to better accommodate the pay area
+-modified the map to better accommodate HUD
+-changed the menu color and moved it from the left of the screen to the right
+
 2 Jul 2018
 -changed some things around on the map for aesthetic purposes mostly
 -Removed the safe squared around the edge of each map
