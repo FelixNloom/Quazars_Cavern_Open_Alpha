@@ -1,4 +1,11 @@
-8 July 2018
+11-13 July 2018
+-removed text room descriptions in favor of text based ones.
+-i made it so you can die from hp loss
+-turned a bunch of things into functions
+-negative damage is no longer a things
+-moved text boxes to mid screen to better accommodate the ui
+
+9 July 2018
 -I added a new character avatar. I call it a "token".
 -made text boxes for room descriptions
 -made an img to represent mon monster
