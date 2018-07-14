@@ -1,5 +1,5 @@
 11-13 July 2018
--removed text room descriptions in favor of text based ones.
+-removed text room descriptions in favor of image based ones.
 -i made it so you can die from hp loss
 -turned a bunch of things into functions
 -negative damage is no longer a things
